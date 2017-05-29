@@ -3,7 +3,11 @@ Asignación Laboratorio #1
 1) Investigue una herramienta ACS y describa cómo se implementa:
 
 a) Control de cambio
-b) Control de versión
+b) 	Control de versiones para tarea 1
+	Control de versiones para tarea 2
+	Control de versiones para tarea 3
+
+
 c) Control de configuración
 
 Nota: Tome evidencias con capturas de pantallas.
