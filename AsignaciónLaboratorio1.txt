@@ -1,0 +1,13 @@
+Asignación Laboratorio #1
+
+1) Investigue una herramienta ACS y describa cómo se implementa:
+
+a) Control de cambio
+b) Control de versión
+c) Control de configuración
+
+Nota: Tome evidencias con capturas de pantallas.
+
+https://es.atlassian.com/software/bitbucked o https://github.com
+
+2) ¿Qué es la administración del contenido? Use la web para investigar las características de una herramienta del administrador del contenido (webapps) y proporcione un breve resumen.
